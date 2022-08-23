@@ -3,6 +3,9 @@ Thumbs.db*
 HELP.md
 .gradle
 build/
+driver/
+win/
+chromedriver.exe
 
 ### STS ###
 .apt_generated
